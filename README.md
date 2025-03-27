@@ -2,13 +2,13 @@
 
 <p align="left">
   <a href="https://ileb.zip">
-    <img src="https://img.shields.io/badge/Portfolio-ileb.zip-black" alt="My Portfolio">
+    <img src="https://img.shields.io/badge/My%20Portfolio!-ileb.zip-black" alt="My Portfolio">
   </a>
   <a href="https://overclocked.cc">
-    <img src="https://img.shields.io/badge/Robotics%20Competition-overclocked.cc-blue" alt="Robotics!">
+    <img src="https://img.shields.io/badge/Robotics%20Competition-overclocked.cc-blue" alt="Robotics Competition">
   </a>
   <a href="https://ileb.zip/mm">
-    <img src="https://img.shields.io/badge/MouseMeter%20App-mousemeter-lightblue" alt="New App: MouseMeter">
+    <img src="https://img.shields.io/badge/New%20App!-MouseMeter-lightblue" alt="New App: MouseMeter">
   </a>
 </p>
 
