@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/New%20App!-MouseMeter-lightblue" alt="New App: MouseMeter">
   </a>
   -->
-![github header2](https://github.com/user-attachments/assets/4dbcf230-0caa-4b5d-872f-5938a8571bd0)
+![github header](https://github.com/user-attachments/assets/3ffe0d80-c960-4d63-98fe-c4d9c6390d5e)
 <!--
 **davidnoeee/davidnoeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
